@@ -1,0 +1,26 @@
+
+.container
+{
+background-color: lightcoral;
+}
+
+
+.tiramisu
+{
+    background-color: beige;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bananatrifle
+{
+    background-color: palegoldenrod;
+    color: darkorange;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.chocolatemousse
+{
+    background-color: brown;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
