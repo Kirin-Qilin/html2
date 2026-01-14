@@ -25,7 +25,19 @@ background-color: lightcoral;
     font-family: 'Courier New', Courier, monospace;
 }
 
+.hehe,
 .lmao{
     color:orange;
     background-color: yellow;
+}
+
+.chocolate.mousse
+{
+    color: brown;
+}
+
+.ancestor .contents 
+{
+    background-color: beige;
+    color: brown;
 }
